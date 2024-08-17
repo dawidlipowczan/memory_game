@@ -1,0 +1,7 @@
+.green-flash {
+    background-color: rgba(0, 255, 0, 0.5); 
+    transition: background-color 0.5s ease-in-out; 
+}
+.green-flash.fade-out {
+    background-color: white; 
+}
